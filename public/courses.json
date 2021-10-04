@@ -1,0 +1,122 @@
+[
+    {
+        "name": "The Enchanting Curious!",
+        "speaker": "Ruqaia Zanjida",
+        "audience": "Ages 10 to 13 girls only",
+        "discription": "The mesmerizing patterns a colour makes while it is unleashed in another medium, the satisfaction one gets while getting your hands dirty in making something beautiful and the feeling of accomplishment one gathers after learning a new skill, are the reasons that motivated us to bring an exciting opportunity to engage in Resin Art!",
+        "time": "Every Saturday, Starting 2nd October, 2021 till 23rd October, 2021 From 2:00PM to 4:00PM",
+        "venue": " House#643, Main Double Road, E-11/4, Islamabad",
+        "contuct": "0321 9559197",
+        "img": "./img/Course/1.jpg",
+        "price": "$100",
+        "kye": 1
+    },
+    {
+        "name": "Kya Chal Raha Hay",
+        "speaker": "Sobia Talha, Sana Aziz, Mahnoor Arif, Hajrah Khan",
+        "audience": "Girls only 18-25",
+        "discription": "Who are you? Why are you here? In today’s tempestuous world, knowing the answers to such questions is of greater importance than ever before. As religion is twisted to sate the Nafs, evil is executed in broad daylight and wrong doers are blindly praised; where do you find yourself standing? We live in treacherous times where people are questioning their gender much less their belief system. At such an hour, how do we make sense of our own identities and purpose in life?To answer your questions, Youth Club brings:Kya Chal Raha Hay On the Path of Rediscovering Yourself With your favorite Sister Speakers at YC- Sobia Talha, Sana Azaz, Mahnoor Arif and Hajrah Khan.",
+        "time": "3:00 p.m. to 5:00 p.m. on the 3rd of October.",
+        "venue": "Venue: Skydine Revolving Restaurant, Bahria Town, Phase 4, Rawalpindi ",
+        "contuct": "+92 342 7478377",
+        "img": "./img/Course/2.jpg",
+        "price": "$100",
+        "kye": 2
+    },
+    {
+        "name": "Masjid Lockup",
+        "speaker": "Abu Saad, Tuaha ibn jalil, Raja zia ul haq",
+        "audience": "12-50 boys only",
+        "discription": "Imagine being locked up for 7 hours, straight. Imagine many other boys just as excited as you. You’re here till the clock strikes 4. What will you do…?  We’re back at it, boys! Gather at Masjid Abdul Aziz Hanif and enjoy an evening with Tuaha Ibn Jalil, Raja Zia ul Haq and Abu Saad. Experience a recreational night, with like-minded brothers, as we hit upon fun activities & essential reminders. Whether it be Gen Z issues, depression, addictions, relationships- you name it- we have it all covered!     Youth Club Presents: “Lock Up Masjid”   Gen Z: Tackle all Challenges Head On!",
+        "time": "From the Isha of 2nd October to the Fajr of 3rd October. ",
+        "venue": "Masjid Abdul Aziz Hanif, G-6 Markaz, Islamabad.",
+        "contuct": "+92 3105000100",
+        "img": "./img/Course/3.jpg",
+        "price": "$100",
+        "kye": 3
+    },
+    {
+        "name": "Promised",
+        "speaker": " Hajrah Usman Khan",
+        "audience": "13+ Females",
+        "discription": "Our entire life and actions are centered around attaining the ultimate goal of Jannah. Which people were ‘promised’ this and how can we be among them? Join us to get answers! Youth Club presents:",
+        "time": "Every Saturday, 4.30 – 5.30 P.M",
+        "venue": "House 40, Back Street 38A, F-10/4, Islamabad",
+        "contuct": 3427478377,
+        "img": "./img/Course/4.jpg",
+        "price": "$100",
+        "kye": 4
+    },
+    {
+        "name": "The Enlightened Path ",
+        "speaker": "Sana Azaz",
+        "audience": "Females only",
+        "discription": "With summer break at its peak, we go back to wondering: now what? Often on than not, this means a total makeover. Whether it means changing your sleep schedule, starting a specific exercise routine or maintaining a healthy diet, why not go for something Sunnah compliant?",
+        "time": "Every Saturday, 4:00 – 5:00 p.m.",
+        "venue": "At House 643, Main Double Road, E-11/4, Islamabad",
+        "contuct": 3427478377,
+        "img": "./img/Course/5.jpg",
+        "price": "Females Only | Free Entry",
+        "kye": 5
+    },
+    {
+        "name": "The Revival",
+        "speaker": "Zeeshan Khalid",
+        "audience": "Males only",
+        "discription": "The Messenger of Allah ﷺ said, “Verily, the iman of one of you will wear out within him, just as a shirt becomes worn out, so ask ALLAH to renew the iman in your hearts.”  (Al-Hakim, Tabrani)  As we live our life, every day, what we do affects the state of our hearts! The affairs of the world take away from our iman, while worship and the gatherings of knowledge add to it!  Join us to revive your heart and soul with the Qur’an and Sunnah!",
+        "time": "(Every Friday)5:00pm to 6:00pm",
+        "venue": " 49L First Floor Khokher Chowk, Johar Town Lahore.",
+        "contuct": " 0335-4925925",
+        "img": "./img/Course/6.jpeg",
+        "price": "$100",
+        "kye": 6
+    },
+    {
+        "name": "The Saturday Circle",
+        "speaker": "Ahmed Khan",
+        "audience": "14 years to 30 years- Males",
+        "discription": "o you wish for some sort of spiritual breakthrough to fill you up on the weekends? Something filled with enlightening and intellectually stimulating discussion!  Then join us to keep your Iman charged up all week ahead!    Youth Club Lahore presents:  “The Saturday Circle” – Science, Society & The Sacred!  With Ahmed Khan (Speaker at YCL)",
+        "time": "Every Saturday) Starting from 17th July, 2021.Timing: 05:00 – 06:00 PM",
+        "venue": "PopCorn Studio, DHA Phase 5, Lahore",
+        "contuct": "0335-4925925",
+        "img": "./img/Course/7.jpg",
+        "price": "$100",
+        "kye": 7
+    },
+    {
+        "name": "Talk To The Town",
+        "speaker": " Iman Anwar",
+        "audience": "14 years to 30 years- Males",
+        "discription": "Have you heard the gossip going around, that hot topic everyone’s talking about? Do you want to know the real deal – the truth behind it all? Then join us to unravel the issues from our day to day lives as a society!    Youth Club Lahore presents: “Talk of The Town” – Bringing your daily affairs under the spotlight!With Iman Anwar (Speaker at Youth Club/Regional Director Punjab)",
+        "time": "Every Saturday Timing: 2:30 – 3:30 PM",
+        "venue": " House No. 78, Umar Block, Commercial Bahria Town, Lahore",
+        "contuct": 3314925925,
+        "img": "./img/Course/8.jpeg",
+        "price": "$100",
+        "kye": 8
+    },
+    {
+        "name": "The Falah Package",
+        "speaker": "Momina Farooqi",
+        "audience": "14 years to 30 years- Males",
+        "discription": "Do you want to learn the secrets that lift a person’s worth to the skies?  Do you want to unlock your maximum potential, and become the best version of yourself? And do you want a wholesome recipe for success, such that guarantees you the best of both worlds?   Then we have the perfect package for you, so join us to seal the deal!  Youth Club Lahore presents: “The Falah Package” – Unlock the greatness within! With Momna Farooqi(Speaker at YCL)",
+        "time": "(Every Thursday) Starting from 8th July, 2021. 05:30 – 06:30 PM",
+        "venue": "72-D, Architect Engineering Housing Society, Lahore.",
+        "contuct": 3314925925,
+        "img": "./img/Course/9.jpg",
+        "price": "$100",
+        "kye": 9
+    },
+    {
+        "name": "Things That Matter: Reloaded",
+        "speaker": "Muhammad Ali",
+        "audience": "14 years to 30 years- Males",
+        "discription": "How do we train ourselves to hold the world in our hands and not in our hearts?How do we work towards building a good life for ourselves without forgetting the hereafter? How do we manage our pursuit of happiness without losing sight of our Creator?Join Brother Muhammad Ali, as takes balancing deen and dunya to the next level!Youth Club Lahore presents:“Things that Matter” – Reset and Reloaded!",
+        "time": "(Every Saturday)Timing:08:00 – 09:00 PM",
+        "venue": "72-D, Architect Engineering Housing Society, Lahore.",
+        "contuct": "0335-4925925",
+        "img": "./img/Course/10.jpg",
+        "price": "$100",
+        "kye": 10
+    }
+]
