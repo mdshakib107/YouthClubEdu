@@ -4,7 +4,7 @@ import { Link, NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div>
+        <div className="">
             <Navbar bg="dark" variant="dark" >
                 <Container className="me-auto">
                     <NavLink to="">

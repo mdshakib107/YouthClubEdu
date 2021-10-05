@@ -11,6 +11,7 @@ import AboutUs from './Component/AboutUs/AboutUs';
 import NotFound from './Component/NotFound/NotFound';
 import HomePageCourse from './Component/HomePageCourse/HomePageCourse';
 import Footer from './Component/Footer/Footer';
+import About from './Component/About/About';
 
 
 function App() {
@@ -32,7 +33,7 @@ function App() {
             <Instuctors></Instuctors>
           </Route>
           <Route path="/aboutus" >
-            <AboutUs></AboutUs>
+            <About></About>
           </Route>
           <Route path="*" >
             <NotFound></NotFound>
