@@ -9,15 +9,11 @@ import Courses from './Component/Courses/Courses';
 import Instuctors from './Component/Instucters/Instuctors';
 import AboutUs from './Component/AboutUs/AboutUs';
 import NotFound from './Component/NotFound/NotFound';
+import HomePageCourse from './Component/HomePageCourse/HomePageCourse';
+import Footer from './Component/Footer/Footer';
 
 
 function App() {
-  const [course, setCourse] = useState([]);
-  useEffect(() => {
-    fetch('./Courses.json')
-      .then(res => res.json())
-      .then(data => console.log(data))
-  }, [])
   return (
     <div className="App">
       <BrowserRouter>
@@ -41,8 +37,8 @@ function App() {
           <Route path="*" >
             <NotFound></NotFound>
           </Route>
-
         </Switch>
+        <Footer></Footer>
       </BrowserRouter>
 
 

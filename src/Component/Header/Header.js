@@ -5,7 +5,7 @@ import { Link, NavLink } from 'react-router-dom';
 const Header = () => {
     return (
         <div>
-            <Navbar bg="dark" variant="dark">
+            <Navbar bg="dark" variant="dark" >
                 <Container className="me-auto">
                     <NavLink to="">
                         <img
@@ -16,10 +16,18 @@ const Header = () => {
                             className="mx-3 d-inline-block align-top"
                         /></NavLink>
                     <Nav className="me-auto">
-                        <Link to="/home"><Nav.Link className="text-white fw-bold fs-5" href="/home">Home</Nav.Link></Link>
-                        <Link to="/courses"><Nav.Link className="text-white fw-bold fs-5" href="/courses">Course</Nav.Link></Link>
-                        <Link to="/instucters"><Nav.Link className="text-white fw-bold fs-5" href="/instucters">Instuctors</Nav.Link></Link>
-                        <Link to="/aboutus"><Nav.Link className="text-white fw-bold fs-5" href="/aboutus">About Us</Nav.Link></Link>
+                        <Link className="text-white fw-bold fs-5  text-decoration-none p-2" to="/home">
+                            Home
+                        </Link>
+                        <Link className="text-decoration-none text-white fw-bold fs-5 p-2 " to="/courses">
+                            Course
+                        </Link>
+                        <Link className="text-white fw-bold fs-5  text-decoration-none p-2" to="/instucters">
+                            Instuctors
+                        </Link>
+                        <Link className="text-decoration-none text-white fw-bold fs-5 p-2" to="/aboutus">
+                            About Us
+                        </Link>
 
                     </Nav>
                 </Container>

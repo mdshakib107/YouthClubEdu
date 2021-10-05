@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Raja Zia Ul Haq",
+        "degi": "Speaker at Youth Club",
+        "discription": "Raja Zia ul Haq is the CEO of Youth Club, having garnered immense appeal amongst the youth through his fun and interactive talks and lectures.",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Dr. Kanwal Kaiser",
+        "degi": "Guest Speaker At Youth Club",
+        "discription": "Dr. Kanwal Kaisser is a pediatrician by profession, along with dynamic orator who has had several guest appearances on channels. Her debate with Dr. Pervez Hoodbhoy against the -French earned her a great repute.",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Muhammad Ali",
+        "degi": "Speaker at Youth Club",
+        "discription": "Muhammad Ali is a prominent teacher, trainer and motivational speaker at Youth Club Lahore. Having received his Bachelor’s degree in Mechanical Engineering from Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Dr. Farah Zeb",
+        "degi": "Guest Speaker At Youth Club",
+        "discription": "A medical doctor by profession and a former lecturer at Hamdard Medical College Karachi, Dr. Farah Zeb holds a PhD in Pharmacology where her research work comprised of a study on patients with depression and schizophrenia. ",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Tuaha ibn Jalil",
+        "degi": "Speaker at Youth Club",
+        "discription": "Tuaha Ibn Jalil has a Bachelor’s degree in Business Administration in Human Resource. He is also a Patient Counselor at Ali Medical Hospital. A lecturer, motivational speaker and counselor, he has studied under the supervision of renowned scholar Dr. Sohail Hassan, completing a 1year certification course in Islamic Studies from Tauheed Academy Islamabad.",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Sara Asif",
+        "degi": "Speaker At Youth Club",
+        "discription": "Sara Asif is a dynamic speaker, teacher & mentor with a gift for captivating her audience with insightful reflections. She has a bachelors degree in English literature, Mathematics & Economics and was a banker by profession",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Wajih Uddin",
+        "degi": "Speaker at Youth Club",
+        "discription": "Muhammad Wajih Uddin is not new to the field of Dawah, having over 15 years of experience under his belt. An educationist by profession, he had held many managerial and teaching positions in his 12 years plus of experience. ",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Sobia Talha",
+        "degi": "Speaker At Youth Club",
+        "discription": "Sobia Talha, mother of 3, has been a speaker at Youth Club since 2018. She received a gold medal when doing her Masters in Mass Communication and was also a lecturer for two years. ",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Mugheerah Luqman",
+        "degi": "Speaker at Youth Club",
+        "discription": "Mugheerah Luqman is a Quran Sciences graduate from the Islamic University of Lahore. He obtained formal certification in ACCA. Thereafter, he completed his Bachelors in Applied Accounting from Oxford Brookes University, United Kingdom",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    },
+    {
+        "name": "Khazra Azam",
+        "degi": "Speaker At Youth Club",
+        "discription": "Khazra Azam, one of the founding members of Youth Club, holds an MS degree in Media & Communication Studies. While being a gold medalist at her university, she also holds a diploma in Quranic education and minor certifications in Hadith & Tajweed.",
+        "img": "./img/Course/1.jpg",
+        "kye": 1
+    }
+]

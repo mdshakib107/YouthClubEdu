@@ -1,0 +1,14 @@
+.single-course-home {
+    padding: 10px;
+    height:386px;
+    transition: 0.6s;
+    margin: 10px;
+  }
+  /* style for a single product  After Hover  */
+  .single-course-home:hover {
+    box-shadow: 4px 4px 7px rgb(158, 157, 157);
+    border-radius: 10px;
+    border: 1px solid rgb(173, 171, 171);
+    background-color: rgb(216, 216, 216);
+  }
+  
