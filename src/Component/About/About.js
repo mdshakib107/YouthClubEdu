@@ -20,6 +20,7 @@ const About = () => {
                 {
                     datas.map(data => <AboutUs
                         data={data}
+                        key={data.kye}
                     ></AboutUs>)
                 }
 

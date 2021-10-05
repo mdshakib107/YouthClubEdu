@@ -2,13 +2,12 @@ import React from 'react';
 import './Instuctor.css'
 
 const Instuctor = (props) => {
-    console.log(props.instuctor)
     const { name, degi, discription, img } = props.instuctor;
     return (
         <div>
             <div className="card mb-3 single-instuctor bg-dark text-light" >
                 <div className="row g-0">
-                    <div class="card-group">
+                    <div className="card-group">
                         <div className="col-md-4 ">
                             <img src={img} className="img-fluid rounded-start" alt="..." />
                         </div>
